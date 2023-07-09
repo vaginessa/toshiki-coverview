@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "dotenv": "^16.0.1",
     "react": "^16.13.1",
-    "react-component-export-image": "^0.1.6",
+    "react-component-export-image": "^1.0.6",
     "react-dom": "^16.13.1",
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
